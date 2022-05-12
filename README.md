@@ -21,7 +21,8 @@ The two charts below are bar chart and scatter plot. Bar chart shows the top 5 s
 
 Readers can use the range slider to choose the range of butterflies counted, and the size of shape refer to the total numbers of butterflies counted at the sites. By clicking the circle symbol on the map, readers can see the details of the sites.
  
- <img width="785" alt="截圖 2022-05-13 上午1 43 00" src="https://user-images.githubusercontent.com/105199493/168115127-791b5fce-ec1c-41ef-ac27-89751293e985.png">
+<img width="774" alt="截圖 2022-05-13 上午1 44 59" src="https://user-images.githubusercontent.com/105199493/168115519-504700f9-f00b-490f-9201-366b2f37bf5a.png">
+
 
 
 While choosing the range from 30 to 60, the map only displays the sites that between the range of total number of butterflies observed.
