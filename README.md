@@ -1,4 +1,4 @@
-# Butterflies
+# Butterfly Survey Visualisation
 
 The dataset is based on `Butterfly biodiversity survey 2017`(https://data.melbourne.vic.gov.au/Environment/Butterfly-biodiversity-survey-2017/kmtd-nvqr).
 
@@ -17,6 +17,18 @@ The output is a one-page webpage, with some basic information, statistical chart
 
 <img width="1001" alt="截圖 2022-05-12 下午10 31 53" src="https://user-images.githubusercontent.com/105199493/168075307-5d738bed-3655-474f-bca4-e760807e756e.png">
 
-## MAP
+The two charts below are bar chart and scatter plot. Bar chart shows the top 5 sites in the data based on the total number of butterflies observed in 2017, and the scatter plot graph tells that the total number of butterflies observed each day at the same 5 sites. 
 
-Readers can use the range slider to choose the range of butterflies counted,
+Readers can use the range slider to choose the range of butterflies counted, and the size of shape refer to the total numbers of butterflies counted at the sites. By clicking the circle symbol on the map, readers can see the details of the sites.
+ 
+ <img width="785" alt="截圖 2022-05-13 上午1 43 00" src="https://user-images.githubusercontent.com/105199493/168115127-791b5fce-ec1c-41ef-ac27-89751293e985.png">
+
+
+While choosing the range from 30 to 60, the map only displays the sites that between the range of total number of butterflies observed.
+
+<img width="783" alt="截圖 2022-05-13 上午1 40 36" src="https://user-images.githubusercontent.com/105199493/168114646-bfcb445f-18ee-4c3c-899b-b4d2a5761b2e.png">
+
+
+### R file
+
+To explore more about the code, check out `Butterflies.R` file !
